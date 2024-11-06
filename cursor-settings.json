@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "inlineChat.showGutterIcon": true,
+    "codeium.enableSearch": true,
+    "codeium.enableConfig": {
+        "*": true,
+        "ignore": true
+    },
+    "editor.largeFileOptimizations": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.confirmSync": false,
+    "diffEditor.maxComputationTime": 0,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.tabSize": 2,
+    "terminal.integrated.copyOnSelection": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "terminal.integrated.sendKeybindingsToShell": true
+}
