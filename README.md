@@ -10,6 +10,8 @@ This repository contains configuration files for my code editors:
 - `vscode-settings.json` - Visual Studio Code configuration
 - `cursor-settings.json` - Cursor configuration
 - `setup.sh` - Installation script for new machines
+- `vscode-extensions.txt` - List of installed Visual Studio Code extensions
+- `cursor-extensions.txt` - List of installed Cursor extensions
 
 ## Original File Locations
 
@@ -80,6 +82,45 @@ The script will:
 - Show what changes were made
 
 Note: VSCode settings take precedence in case of conflicts
+
+## Extensions/Plugins
+
+### Exporting Extension Lists
+
+#### Visual Studio Code
+
+To export a list of installed extensions:
+
+```bash
+code --list-extensions > vscode-extensions.txt
+```
+
+#### Cursor
+
+Since Cursor doesn't provide a CLI command, use the provided script:
+
+```bash
+chmod +x list-cursor-extensions.sh
+./list-cursor-extensions.sh
+```
+
+### Installing Extensions
+
+#### Visual Studio Code
+
+To install all extensions from the list:
+
+```bash
+cat vscode-extensions.txt | xargs -L 1 code --install-extension
+```
+
+#### Cursor
+
+To install all extensions from the list:
+
+```bash
+cat cursor-extensions.txt | xargs -L 1 cursor --install-extension
+```
 
 ## Notes
 
