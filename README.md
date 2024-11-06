@@ -87,7 +87,7 @@ Note: VSCode settings take precedence in case of conflicts
 
 ### Exporting Extension Lists
 
-#### Visual Studio Code
+#### VSCode Extensions Export
 
 To export a list of installed extensions:
 
@@ -95,7 +95,7 @@ To export a list of installed extensions:
 code --list-extensions > vscode-extensions.txt
 ```
 
-#### Cursor
+#### Cursor Extensions List
 
 Since Cursor doesn't provide a CLI command, use the provided script:
 
@@ -106,7 +106,7 @@ chmod +x list-cursor-extensions.sh
 
 ### Installing Extensions
 
-#### Visual Studio Code
+#### VSCode Extensions Install
 
 To install all extensions from the list:
 
@@ -114,7 +114,7 @@ To install all extensions from the list:
 cat vscode-extensions.txt | xargs -L 1 code --install-extension
 ```
 
-#### Cursor
+#### Cursor Extensions Install
 
 To install all extensions from the list:
 
