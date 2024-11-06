@@ -16,10 +16,6 @@
   "editor.tabSize": 2,
   "terminal.integrated.copyOnSelection": true,
   "editor.formatOnSave": true,
-  "terminal.integrated.commandsToSkipShell": [
-    ""
-  ],
-  "terminal.integrated.sendKeybindingsToShell": true,
   "github.copilot.enable": {
     "markdown": true
   },
