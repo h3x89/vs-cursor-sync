@@ -1,7 +1,12 @@
 cursor-anysphere.pyright-1.1.327-universal
+cursor-davidanson.vscode-markdownlint-0.57.0
 cursor-eamodio.gitlens-15.6.3
+cursor-eamodio.gitlens-16.0.1
+cursor-eamodio.gitlens-16.0.2
 cursor-hashicorp.terraform-2.33.0-darwin-arm64
+cursor-hashicorp.terraform-2.34.0-darwin-arm64
 cursor-mkxml.vscode-filesize-3.2.1
+cursor-mkxml.vscode-filesize-3.2.2
 cursor-ms-python.debugpy-2024.6.0-darwin-arm64
 cursor-ms-python.python-2024.12.3-darwin-arm64
 cursor-ms-python.vscode-pylance-2024.8.1
@@ -12,3 +17,5 @@ cursor-ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal
 cursor-ms-vscode-remote.remote-ssh-0.113.1
 cursor-ms-vscode-remote.remote-ssh-edit-0.87.0
 cursor-ms-vscode.vscode-speech-0.12.1-darwin-arm64
+cursor-shd101wyy.markdown-preview-enhanced-0.8.15
+cursor-wayou.vscode-todo-highlight-1.0.5
