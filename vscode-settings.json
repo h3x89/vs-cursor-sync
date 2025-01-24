@@ -33,5 +33,6 @@
   "workbench.settings.applyToAllProfiles": [
     "diffEditor.wordWrap",
     "editor.wordWrap"
-  ]
+  ],
+  "python.createEnvironment.trigger": "off"
 }
