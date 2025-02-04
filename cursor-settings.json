@@ -54,5 +54,8 @@
   "jupyter.interactiveWindow.creationMode": "perFile",
   "notebook.output.scrolling": true,
   "editor.minimap.enabled": true,
-  "terminal.integrated.cursorBlinking": true
+  "terminal.integrated.cursorBlinking": true,
+  "datadog.telemetry.setup.enableTelemetry": "enabled",
+  "datadog.connection.oauth.setup.domain": "robertkubis.datadoghq.com",
+  "datadog.timeRange.setup.timeFrame": "2d"
 }
