@@ -24,6 +24,9 @@ repository:
       status: enabled
     secret_scanning_push_protection:
       status: enabled
+    code_scanning:
+      status: enabled
+      type: default  # Enable CodeQL in default setup mode
 
   # test 
 
