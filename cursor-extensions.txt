@@ -22,11 +22,9 @@ cursor-shd101wyy.markdown-preview-enhanced-0.8.15
 cursor-vstirbu.vscode-mermaid-preview-1.6.3
 cursor-wayou.vscode-todo-highlight-1.0.5
 cursor-yy0931.save-as-root-1.9.0
-datadog.datadog-vscode-1.20.2
-datadog.datadog-vscode-1.21.0
+datadog.datadog-vscode-1.21.2
 davidanson.vscode-markdownlint-0.59.0
 donjayamanne.githistory-0.6.20
-eamodio.gitlens-16.3.0
 eamodio.gitlens-16.3.2
 extensions.json
 fnando.linter-0.0.19
@@ -34,6 +32,7 @@ github.remotehub-0.64.0
 github.vscode-github-actions-0.27.1
 github.vscode-pull-request-github-0.102.0
 grapecity.gc-excelviewer-4.2.63
+gruntfuggly.todo-tree-0.0.226
 hashicorp.terraform-2.34.3-darwin-arm64
 ipedrazas.kubernetes-snippets-0.1.9
 jebbs.plantuml-2.18.1
@@ -55,7 +54,7 @@ ms-vscode-remote.remote-containers-0.394.0
 ms-vscode-remote.remote-ssh-0.113.1
 ms-vscode-remote.remote-ssh-edit-0.87.0
 ms-vscode.azure-repos-0.40.0
-ms-vscode.makefile-tools-0.11.13
+ms-vscode.makefile-tools-0.12.17
 ms-vscode.remote-explorer-0.4.3
 ms-vscode.remote-repositories-0.42.0
 ms-vscode.vscode-speech-0.12.1-darwin-arm64
@@ -63,7 +62,7 @@ openai.openai-chatgpt-adhoc-0.0.1731981761
 qwtel.sqlite-viewer-0.10.2-darwin-arm64
 redhat.vscode-yaml-1.16.0
 shd101wyy.markdown-preview-enhanced-0.8.15
-streetsidesoftware.code-spell-checker-4.0.34
+streetsidesoftware.code-spell-checker-4.0.39
 thaumiel.file-last-modified-1.1.0
 tomoki1207.pdf-1.2.2
 trietho.file-size-explorer-0.0.2
